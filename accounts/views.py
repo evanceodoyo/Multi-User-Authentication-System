@@ -1,5 +1,3 @@
-from multiprocessing import context
-import profile
 from django.shortcuts import redirect, render
 from .forms import UserRegistrationForm, UserUpdateForm, StudentProfileUpdateForm, TeacherProfileUpdateForm
 from django.contrib.auth.forms import AuthenticationForm
