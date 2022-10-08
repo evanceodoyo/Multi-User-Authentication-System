@@ -1,5 +1,5 @@
 # Multi-User Authentication System
-A simple multiuser authentication system which uses profile model and can be used for apps with users with different roles.
+A simple multi-user authentication system which uses profile model and can be used for apps with users with different roles.
 
 # Author Information 
 Evance Odoyo
